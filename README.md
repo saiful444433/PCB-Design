@@ -1,3 +1,3 @@
 # PCB-Desige
-Generally I use KiCad and EasyEda for design or develop PCB. 
+Generally I use KiCad and EasyEda for design or develop PCB. Find more in Branch. 
 
